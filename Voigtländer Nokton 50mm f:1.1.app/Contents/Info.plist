@@ -30,11 +30,11 @@
 	<key>CFBundleIconFile</key>
 	<string>AutomatorApplet</string>
 	<key>CFBundleIdentifier</key>
-	<string>com.apple.automator.Jupiter-8 50mm f:2</string>
+	<string>com.apple.automator.Voigtländer Nokton 50mm f:1.1</string>
 	<key>CFBundleInfoDictionaryVersion</key>
 	<string>6.0</string>
 	<key>CFBundleName</key>
-	<string>Jupiter-8 50mm f:2</string>
+	<string>Voigtländer Nokton 50mm f:1.1</string>
 	<key>CFBundlePackageType</key>
 	<string>APPL</string>
 	<key>CFBundleShortVersionString</key>

@@ -231,7 +231,7 @@ done</string>
 					<key>COMMAND_STRING</key>
 					<string>for f in "$@"
 do
-   exiftool -P -overwrite_original -FocalLength=50 -MaxApertureValue=2 -Lens="Jupiter-8 50mm f/2" "$f"
+   exiftool -P -overwrite_original -FocalLength=50 -MaxApertureValue=1.1 -Lens="Voigtländer Nokton 50mm f/1.1" "$f"
 done</string>
 					<key>CheckedForUserDefaultShell</key>
 					<true/>
@@ -361,7 +361,7 @@ done</string>
 	</array>
 	<key>connectors</key>
 	<dict>
-		<key>58031D60-64FD-4B45-BD7A-336CF1B6F734</key>
+		<key>FFCFFF49-95D2-4728-95D0-3B8F7EED92A3</key>
 		<dict>
 			<key>from</key>
 			<string>AA534BD3-E5C1-4D29-BE57-FB698549FA2C - AA534BD3-E5C1-4D29-BE57-FB698549FA2C</string>
